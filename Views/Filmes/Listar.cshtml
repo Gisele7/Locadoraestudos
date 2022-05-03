@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Filme_Locadora.Tbfilmes>
+
+@{
+    ViewData["Title"] = "Listar filmes";
+}
+
+<h2>Lista de Filmes</h2>
+
+<p>
+    @Html.ActionLink("Incluir novo filme", "Incluir")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Preco)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Foto)
+        </th>*@
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                 IMAGEM 
+                <img src="@Url.Action("BuscarProduto", "Filmes", new { id = item.Id })" style="width:100px;" />
+            </td>*@
+            <td>
+                @Html.ActionLink("Alterar", "Alterar", new { id = item.Id }) |
+                @Html.ActionLink("Detalhes", "ExibirDetalhes", new { id = item.Id }) |
+                @Html.ActionLink("Excluir", "Excluir", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<script src="janela.js"</script>

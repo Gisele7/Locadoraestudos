@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Filme_Locadora
+build_property.RootNamespace = Filme_Locadora
+build_property.ProjectDir = C:\Users\5298\Downloads\Filme_Locadora-master\Filme_Locadora-master\Filme_Locadora\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\5298\Downloads\Filme_Locadora-master\Filme_Locadora-master\Filme_Locadora
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Clientes/Alterar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQWx0ZXJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Clientes/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRXhjbHVpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Clientes/ExibirDetalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRXhpYmlyRGV0YWxoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Clientes/Incluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5jbHVpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Clientes/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Filmes/Incluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEluY2x1aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Filmes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Filmes/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Shared/_Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/5298/Downloads/Filme_Locadora-master/Filme_Locadora-master/Filme_Locadora/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-32zp40ypmm

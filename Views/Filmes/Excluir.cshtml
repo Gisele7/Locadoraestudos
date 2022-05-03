@@ -1,0 +1,22 @@
+﻿@model Filme_Locadora.Tbfilmes
+
+@{
+    ViewData["Title"] = "Excluir";
+}
+
+<h3 class="text-danger">Tem certeza que deseja remover o filme @Model.Descricao?</h3>
+<div>
+    <hr />
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.HiddenFor(x => x.Descricao)
+
+        <div class="form-actions no-color">
+         <input type="submit" value="Sim, excluir" class="btn btn-danger" /> |
+            @Html.ActionLink("Não, voltar para a lista", "Listar")
+        </div>
+    }
+</div>
+    
